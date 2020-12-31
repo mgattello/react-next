@@ -86,7 +86,6 @@ export default function Home({ allPostsData }) {
         <p>Hey, I'm Marco. I'm a Software Engineer and an until-midnight developer.</p>
         <p>
           And this is a demo on how to use NEXT.js, a React Framework.
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
 
